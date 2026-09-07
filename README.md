@@ -66,5 +66,3 @@ Flight Search    Hotel Search    Itinerary Planning
 ```
 ## Conclusion
 This project demonstrates how multiple AI agents can work together to build an automated and context-aware travel planning system. The architecture allows different agents to specialize in specific tasks — flights, hotels, itinerary — while LangGraph manages the overall workflow and agent coordination.
-## Conclusion
-This project demonstrates how multiple AI agents can work together to build an automated and context-aware travel planning system. The architecture allows different agents to specialize in specific tasks — flights, hotels, itinerary — while LangGraph manages the overall workflow and agent coordination.
