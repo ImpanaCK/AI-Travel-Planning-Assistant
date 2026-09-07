@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-This project implements a multi-agent customer support system using LangGraph and Large Language Models (LLMs).
+This project implements a multi-agent travel planning system using LangGraph and Large Language Models (LLMs). 
 
-Instead of relying on a single AI agent, the system uses multiple specialized agents that collaborate to understand customer queries, perform specific tasks, and generate context-aware responses.
+Instead of relying on a single AI agent, the system uses multiple specialized agents that collaborate to search flights, find hotels, build itineraries, and generate a final personalized travel plan based on user input.
 
 ## Tools & Technologies
 
